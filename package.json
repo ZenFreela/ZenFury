@@ -1,11 +1,26 @@
 {
-  "name": "project",
+  "name": "ZenFury",
   "version": "0.1.0",
-  "private": true,
+  "description": "You only need one eye to see me. I'm simple!",
+  "author": "@andredezzy",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/ZenFreela/ZenFury#readme",
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.8.5",
+    "react-bootstrap": "^1.0.0-beta.6",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "styled-components": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenFreela/ZenFury.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZenFreela/ZenFury/issues"
   },
   "scripts": {
     "start": "react-scripts start",
