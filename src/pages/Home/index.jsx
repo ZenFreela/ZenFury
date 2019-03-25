@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 
-// import { Container } from './styles';
+import { HomeContainer } from './styles';
 
 export default class Home extends Component {
   render() {
     return (
-      <div>
+      <HomeContainer>
         <h1>Home Page</h1>
-      </div>
+      </HomeContainer>
     );
   }
 }
