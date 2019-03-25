@@ -1,11 +1,23 @@
 {
-  "name": "project",
+  "name": "ZenFury",
   "version": "0.1.0",
-  "private": true,
+  "description": "You only need one eye to see me. I'm simple!",
+  "author": "@andredezzy",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/andredezzy/video-maker#readme",
   "dependencies": {
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "styled-components": "^4.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andredezzy/video-maker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andredezzy/video-maker/issues"
   },
   "scripts": {
     "start": "react-scripts start",
