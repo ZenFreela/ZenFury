@@ -5,7 +5,7 @@
   "author": "@andredezzy",
   "license": "MIT",
   "private": false,
-  "homepage": "https://github.com/andredezzy/video-maker#readme",
+  "homepage": "https://github.com/ZenFreela/ZenFury#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.5",
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andredezzy/video-maker.git"
+    "url": "git+https://github.com/ZenFreela/ZenFury.git"
   },
   "bugs": {
-    "url": "https://github.com/andredezzy/video-maker/issues"
+    "url": "https://github.com/ZenFreela/ZenFury/issues"
   },
   "scripts": {
     "start": "react-scripts start",
