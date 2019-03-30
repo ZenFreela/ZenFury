@@ -16,9 +16,9 @@ const HeaderContainer = styled(Navbar)`
   }
 
   button {
-    text-transform: capitalize;
-    font-weight: bold;
-    padding: 5px 25px;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 8px 25px;
     color: #22c23d;
     border: 1px solid #22c23d;
     border-radius: 3px;
